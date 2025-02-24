@@ -1,5 +1,5 @@
 Expense Odyssey - Smart Expense Tracker 🚀💰
-
+---
 
 *Expense Odyssey is your ultimate personal finance companion!
 
@@ -15,6 +15,7 @@ Expense Odyssey - Smart Expense Tracker 🚀💰
 
 *Seamless expense management with quick logging, filtering, and detailed reports
 
+---
 
 
 🌟 Key Features
@@ -26,6 +27,7 @@ Quickly log expenses with amount, category, date, and notes.
 
 Edit or delete transactions anytime for flexibility.
 
+---
 
 
 📈 Powerful Analytics & Reports
@@ -34,7 +36,7 @@ Interactive charts to visualize spending trends.
 
 Category-based filtering for a detailed breakdown of expenses.
 
-
+---
 
 🎨 Modern & Intuitive UI
 
@@ -42,7 +44,7 @@ Sleek and responsive design with smooth animations.
 
 Dark mode support for an elegant, eye-friendly experience.
 
-
+---
 
 🔄 Data Persistence & Sync
 
@@ -50,6 +52,7 @@ Auto-save transactions using UserDefaults (upgradeable to Core Data or Firebase)
 
 Cloud sync support (Coming soon!).
 
+---
 
 📅 Filters & Insights
 
@@ -57,12 +60,13 @@ Filter expenses by date range or category.
 
 Get monthly, weekly, or daily summaries of your expenses.
 
-
+---
 
 🔔 Budget Alerts (Upcoming)
 
 Set spending limits and get notified when approaching your budget cap.
 
+---
 
 📌 How to Use
 
