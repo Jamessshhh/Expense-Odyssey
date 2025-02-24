@@ -74,7 +74,7 @@ Set spending limits and get notified when approaching your budget cap.
 
 🔹 Step 4: Switch to the Reports tab to analyze spending trends.
 
-🔹 Step 5: Customize themes and toggle dark mode for a personalized experience.
+🔹 Step 5: Customize themes and toggle dark mode for a personalized experience..
 
 
 
